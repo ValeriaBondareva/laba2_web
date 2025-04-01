@@ -5,4 +5,4 @@
 Завдання:<br>
 Розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC.<br>
 
-[Звіт]()
+[Звіт](https://docs.google.com/document/d/10h-L243NaD78i_BurXIo1hxxm6r4-eFJOVXKPegTADk/edit?usp=sharing)
